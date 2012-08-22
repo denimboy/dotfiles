@@ -1,7 +1,5 @@
 
-#
 alias e='emacs .'
 alias ls='ls -aFG'
 alias g='git'
 alias wget='wget -c'
-
